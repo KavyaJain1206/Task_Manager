@@ -18,3 +18,19 @@ Task Manager is a simple command-line application written in Python to manage ta
 - Python 3.10
 
 
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/KavyaJain1206/Task_Manager.git
+    cd task-manager
+    ```
+
+2. Run the application:
+
+    ```bash
+    python task_manager.py
+    ```
+
+
